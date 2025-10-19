@@ -7,7 +7,7 @@
 `npm start` to start the server.
 
 ## Information
-
+ 
 ### How this works?
 - The server is a simple nodejs server.
 - The client establishes a websocket connection to the server on creating the room. In this case, we use socket.io.
